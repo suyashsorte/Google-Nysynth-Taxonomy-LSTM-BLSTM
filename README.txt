@@ -10,7 +10,6 @@ To train the model LSTM or BLSTM:
 In BLSTM code "BLSTM.py" we have to comment the line number 109
 then hit run as it is the line where it loads existing weights.
 
-
 In LSTM code "LSTM.py" we have to comment line number 109 and hit run as it is the line where it loads existing weights.
 
 The pwf files for LSTM.py is named as "dict_model.pwf"
@@ -21,4 +20,5 @@ To run with existing weights uncomment the 109 line as it is where the model wei
 
 Accuracy of LSTM model - 56%
 Accuracy of BLSTM model - 58%
+
 *Note  -  As we have named both the pwf files as "dict_model.pwf" keep both the codes at different folders with their respective pwf files. 
