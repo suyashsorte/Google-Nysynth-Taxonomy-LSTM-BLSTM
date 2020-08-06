@@ -19,4 +19,6 @@ The Pwf file for "BLSTM.py" is named as
 
 To run with existing weights uncomment the 109 line as it is where the model weights are loaded and uncomment the break in for loop in main function which runs for 10 epochs.
 
+Accuracy of LSTM model - 56%
+Accuracy of BLSTM model - 58%
 *Note  -  As we have named both the pwf files as "dict_model.pwf" keep both the codes at different folders with their respective pwf files. 
